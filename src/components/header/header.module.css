@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  border-bottom: 2px solid rgb(211, 211, 211);
+
+}
+
+.iconsContainer {
+  display: flex;
+  gap: 20px;
+}
+
+.img {
+  border-radius: 100%;
+}
